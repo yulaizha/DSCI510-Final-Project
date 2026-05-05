@@ -1,4 +1,9 @@
 pandas
+numpy
+matplotlib
+scipy
+statsmodels
+scikit-learn
 requests
 beautifulsoup4
 lxml
