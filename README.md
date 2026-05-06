@@ -61,11 +61,7 @@ DSCI510-Final-Project/
 │   ├── load_data.py
 │   └── final_analysis.py
 │
-├── data/
-│   └── local input and cleaned CSV files
-│
-└── results/
-    └── generated analysis tables, plots, and model outputs
+└── 
 ```
 
 The `data/` and `results/` folders are ignored by GitHub through `.gitignore`.
